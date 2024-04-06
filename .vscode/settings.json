@@ -1,4 +1,4 @@
 {
-    "container.imageLocation": "http://localhost:8080/node-slim.wasm",
+    "container.imageLocation": "https://mrdobi.github.io/node-wasm-image/node-slim.wasm",
     "container.imageChunks": 0
 }
