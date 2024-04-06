@@ -1,0 +1,4 @@
+{
+    "container.imageLocation": "http://localhost:8080/node-slim.wasm",
+    "container.imageChunks": 0
+}
